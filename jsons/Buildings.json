@@ -1,0 +1,21 @@
+[
+  	{
+		"name": "Pyramid",
+		"replaces": "Memorial",
+		"uniqueTo": "The Maya",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Habitation",
+		"uniques": ["Only available <when religion is enabled>"],
+		"civilopediaText": [
+			{
+				"text": "A space set aside to remember those who are left behind on old Earth, or who met their final end in the new world."
+			},
+			{
+				"text": "Well, Pyramid in Maya unless in civ v."
+      }
+		]
+	}
+]
