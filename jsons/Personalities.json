@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Pacal",
+		"preferredVictoryType": "Scientific",
+		"culture": 6,
+		"faith": 8,
+		"food": 5,
+		"gold": 5,
+		"happiness": 6,
+		"production": 5,
+		"science": 8,
+		
+    "military": 5,
+    "aggressive": 3,
+    "declareWar": 4,
+    "commerce": 3,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 4,
+    "denounceWillingness": 4,
+		
+		"priorities": {
+			"Pioneer Spirit": 5,
+			"Consolidation": 5,
+			"Diversity": 5,
+			"Tenacity": 7,
+			"Statecraft": 7,
+			"Ingenuity": 8,
+			"Humanitarian": 10,
+			"Ascendancy": 5,
+			"Prestige": 5,
+			"Purification Ideology": 10,
+			"Symbiosis Ideology": 5,
+			"Radiant Ideology": 5
+		},
+		"civilopediaText": [
+			{"text": "."}
+		]
+	}
+]
