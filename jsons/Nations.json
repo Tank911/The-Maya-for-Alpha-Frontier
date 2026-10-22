@@ -1,0 +1,56 @@
+[
+	{
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"adjective": ["Adjective"],
+		"startBias": ["Tundra"],
+		"personality": "",
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": "What Maya, go to Alpha Centauri and Beyond Earth?\n[Kneel before King Pacal the Great, son of the gods and protector of the Palenque domain! After your kingdom has been harassed for years by neighboring rivals, you struck back at the enemies of your people, defeating each of them and sacrificing their leaders as a retribution to the insults made to your ancestors. Your wisdom and hard will not only restored the glory of Palenque, but turned it into a magnificient city, as your people built the greatest monuments and architecture the world has ever known.]",
+		"startIntroPart2": "[Absolute King, your people need you to save the great Mayan culture and knowledge. Will you be able to read the movement of the stars, and find in the heavens the power to repel any foes? Will your new empire shine through the ages of history?] Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"denounced": ".",
+		"declaringFriendship": ".",
+		"tradeRequest": ".",
+
+		"neutralDenouncing": ".",
+		"hateDenouncing": ".",
+		
+		"acceptingDemand": ".",
+		"neutralRejectingDemand": ".",
+		"hateRejectingDemand": ".",
+
+		"outerColor": [198, 141, 99],
+		"innerColor": [24, 63, 66],
+		"uniqueName": "The Long Count?",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Xenochemistry]. Each bonus person can only be chosen once.", "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count."],
+    // Unlike Alpha Frontier at least 20 city names, Maya follow Civ V city.
+		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
+			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
+			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+    "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+		"civilopediaText": [
+			{
+				"text": "Title 1",
+				"header": 2,
+				"centered": true
+			},
+			{
+				"text": "Civilopedia Entry 1"
+			},
+			{
+				"separator": true
+			}
+		]
+	},
+]
